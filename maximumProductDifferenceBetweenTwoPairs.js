@@ -10,5 +10,5 @@ var maxProductDifference = function (nums) {
 
   // return the product difference 
   return ((nums[nums.length - 1] * nums[nums.length - 2]) - (nums[0] * nums[1]))
-
+  
 };
